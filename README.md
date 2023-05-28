@@ -1,6 +1,6 @@
 # HR-Dashboard- MYSQL- POWER-BI
 
-![image](https://github.com/laplacepaul/HR--Dashboard---MYSQL-POWER-BI/blob/main/Screenshot%20(19).png)
+![image](https://github.com/laplacepaul/HR--Dashboard---MYSQL-POWER-BI/blob/main/HR%20Employee.png)
 
 ## Data Used
 **Data** - HR Data with over 22000 rows from the year 2000 to 2020.
